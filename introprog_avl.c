@@ -115,6 +115,14 @@ void AVL_rotate_right(AVLTree* avlt, AVLNode* y)
 void AVL_balance(AVLTree* avlt, AVLNode* node)
 {
     
+
+}
+
+
+int height()
+{
+
+	
 }
 
 
